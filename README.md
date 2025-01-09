@@ -1,8 +1,8 @@
 # 🎨 Theme Minimalist OhMyPosh
 
-![Taille du dépôt](https://img.shields.io/github/repo-size/votre-repo/Theme-minimalist-ohmyposh)
-![Issues GitHub](https://img.shields.io/github/issues/votre-repo/Theme-minimalist-ohmyposh)
-![Étoiles GitHub](https://img.shields.io/github/stars/votre-repo/Theme-minimalist-ohmyposh?style=social)
+![Taille du dépôt](https://img.shields.io/github/repo-size/PierreMaze/Theme-minimalist-ohmyposh)
+![Issues GitHub](https://img.shields.io/github/issues/PierreMaze/Theme-minimalist-ohmyposh)
+![Étoiles GitHub](https://img.shields.io/github/stars/PierreMaze/Theme-minimalist-ohmyposh?style=social)
 ![Licence](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## ✨ Description
